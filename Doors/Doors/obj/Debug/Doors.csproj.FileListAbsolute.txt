@@ -1,0 +1,16 @@
+c:\users\mois\source\repos\Doors\Doors\bin\Debug\Doors.exe.config
+c:\users\mois\source\repos\Doors\Doors\bin\Debug\Doors.exe
+c:\users\mois\source\repos\Doors\Doors\bin\Debug\Doors.pdb
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.csprojResolveAssemblyReference.cache
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\MainWindow.g.cs
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\App.g.cs
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors_MarkupCompile.cache
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors_MarkupCompile.lref
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\MainWindow.baml
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.g.resources
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.Properties.Resources.resources
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.csproj.GenerateResource.cache
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.csproj.CoreCompileInputs.cache
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.exe
+c:\users\mois\source\repos\Doors\Doors\obj\Debug\Doors.pdb
